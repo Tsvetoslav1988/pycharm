@@ -38,7 +38,7 @@ class TestSimple:
 
         self.driver.find_element(By.XPATH, "//button[@aria-label='Consent']").click()
 
-        firstName = "Gábor"
+        firstName = "Thomas"
         lastName = "Nyilas"
         email = "gabor.nyilas@codecool.com"
         gender = "Male"
