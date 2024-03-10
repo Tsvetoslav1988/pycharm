@@ -39,7 +39,7 @@ class TestSimple:
         self.driver.find_element(By.XPATH, "//button[@aria-label='Consent']").click()
 
         firstName = "Thomas"
-        lastName = "Nyilas"
+        lastName = "Smith"
         email = "gabor.nyilas@codecool.com"
         gender = "Male"
         phoneNumber = "0123456789"
